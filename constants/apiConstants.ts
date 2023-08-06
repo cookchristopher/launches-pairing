@@ -1,0 +1,1 @@
+export const LAUNCHES_ENDPOINTS = 'https://api.spacexdata.com/v5/launches/query';
